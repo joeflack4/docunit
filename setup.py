@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='docunit',
-    version='0.1.1',
+    version='0.1.2',
     author='Joe Flack',
     author_email='joeflack4@gmail.com',
     description=('Docunit - A package to conveniently hook doctests and unit '
@@ -22,7 +22,7 @@ setup(
     install_requires=[],
     tests_require=[],
     url='http://www.joeflack.net/',
-    download_url='https://github.com/joeflack4/docunit/archive/0.1.1.tar.gz',
+    download_url='https://github.com/joeflack4/docunit/archive/0.1.2.tar.gz',
     keywords=['joeflack4', 'docunit', 'doctest', 'unittest'],
     license='MIT',
     classifiers=[
